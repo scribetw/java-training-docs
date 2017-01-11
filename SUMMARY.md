@@ -16,8 +16,11 @@
   * [A3 OOM](/JavaTraining/OOM.md)
   * [A4 Java Problems](/JavaTraining/Problems.md)
 * [Java Quiz](JavaQuiz/README.md)
-
-## Java
+  * [1 身分證檢測](/JavaQuiz/1. 身分證檢測.md)
+  * [2 Model-Dao-Service](/JavaQuiz/2. Model-Dao-Service Mock.md)
+  * [3 競速問題](/JavaQuiz/3. Race condition.md)
+  * [4 Annotation 反射](/JavaQuiz/4. Annotation + Reflection.md)
+  * [5 Lambda + 方法參照](/JavaQuiz/5. Lambda + Method reference.md)
 
 
 
