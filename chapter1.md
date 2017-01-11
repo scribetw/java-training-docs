@@ -1,3 +1,4 @@
-# First Chapter
+# Java Training
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+我用來教新進同事 Java 的系列教材。
+
