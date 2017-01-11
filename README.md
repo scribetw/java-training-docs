@@ -1,3 +1,4 @@
-# My Awesome Book
+# Java Training Docs
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+就是一些 Java 相關教學文件，整理整理丟出來。
+
